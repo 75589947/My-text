@@ -1,6 +1,6 @@
 //主仓库
 {"urls":[
-{"name":"🍚饭太硬","url":"http://www.饭太硬.cc.tv"},
+{"name":"🍚饭太硬","url":"http://www.饭太硬.cc/tv"},
 {"name":"💦巧技","url":"http://cdn.qiaoji8.com/tvbox.json"},
 {"name":"🎬影综","url":"https://9877.kstore.space/AnotherD/api.json"},
 {"name":"🐼肥猫","url":"http://肥猫.com"},
