@@ -2,15 +2,15 @@
 { "storeHouse": [
     {
       "sourceName": "主仓库",
-      "sourceUrl": "https://text.75589947.dpdns.org/主仓库.txt"
+      "sourceUrl": "https://text.75589947.de5.net/主仓库.txt"
     },
     {
       "sourceName": "备用仓",
-      "sourceUrl": "https://text.75589947.dpdns.org/备用仓.txt"
+      "sourceUrl": "https://text.75589947.de5.net/备用仓.txt"
     },
     {
       "sourceName": "测试仓",
-      "sourceUrl": "https://text.75589947.dpdns.org/测试仓.txt"
+      "sourceUrl": "https://text.75589947.de5.net/测试仓.txt"
     }
     ]
 }
